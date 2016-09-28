@@ -5,6 +5,8 @@ In this fast-paced game, your goal is to stay alive for as long as possible and 
 
 There is a two-second timer that counts down and once it hits zero, the game is over. Pressing a green button resets the timer to two seconds and adds to your score. But be careful, red buttons appear randomly and quickly. When a red button is pressed, it's an automatic game over.
 
+[**Available on the Google Play Store**](https://play.google.com/store/apps/details?id=yohlo.buttongame&hl=en)
+
 ---
 ### Current Features ###
 * Two-second timer
@@ -28,7 +30,9 @@ There is a two-second timer that counts down and once it hits zero, the game is 
   * Black + White
   * Red + White
 * Either use "total score" as currency or a randomly generated currency that'll appear on buttons RARELY
+ * No micro-transactions
 * Check box to enable/disable small banner ad after loss
+ * Disabled by default
 * UI overhaul
   * Better spacing in "terminal"
   * Better textual locations
