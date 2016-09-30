@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         resetButtons();
 
-        //this is the TextView for the loss reason.
+        // this is the TextView for the loss reason.
         findViewById(R.id.textView).setVisibility(View.GONE);
 
         //TextViews for high score and for current score.
